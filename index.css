@@ -1,0 +1,31 @@
+html{
+    background : linear-gradient(purple,lightblue, teal)
+}
+body{
+    background: white;
+    height: 595px;
+    width: 600px;
+    margin: 25px 50px 150px 350px;
+}
+.row{
+    background-color:green;
+    font-size: 50px;
+    text-align: center;
+    color: black;
+    height: 75px;
+    width: 75px;
+    float: left;
+}
+.row-data{
+    background-color: white;
+    height: 75px;
+    width: 75px;
+    float:left
+}
+.row-data:hover{
+    background-color:lightseagreen;
+}
+.black{
+    background-color:brown;
+}
+
